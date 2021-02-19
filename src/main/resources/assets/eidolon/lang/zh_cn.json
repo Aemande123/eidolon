@@ -160,7 +160,7 @@
   "eidolon.codex.cancel_hover": "清空",
   "eidolon.codex.sign_suffix": "%s符咒",
 
-  "container.eidolon.enchant.shard.one": "§c花费：%s个灵魂碎片",
-  "container.eidolon.enchant.shard.many": "§c花费：%s个灵魂碎片",
+  "container.eidolon.enchant.shard.one": "花费：%s个灵魂碎片",
+  "container.eidolon.enchant.shard.many": "花费：%s个灵魂碎片",
   "container.eidolon.wooden_brewing_stand": "木质酿造台"
 }
